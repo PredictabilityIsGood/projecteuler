@@ -1,0 +1,24 @@
+{
+  "name": "projecteuler-javascript",
+  "version": "1.0.0",
+  "description": "javascript solutions of project euler",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PredictabilityIsGood/projecteuler-JavaScript.git"
+  },
+  "keywords": [
+    "solutions",
+    "project",
+    "euler"
+  ],
+  "author": "Ryan Montgomery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PredictabilityIsGood/projecteuler-JavaScript/issues"
+  },
+  "homepage": "https://github.com/PredictabilityIsGood/projecteuler-JavaScript#readme"
+}
